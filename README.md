@@ -14,7 +14,7 @@ gymfit/
 │   └── style.css
 ├── js/
 │   └── script.js
-└── images/   (empty — all images loaded from Unsplash URLs)
+└── images/   (empty — some images loaded from Unsplash URLs, others from google images)
 ```
 
 ## JavaScript Features 
